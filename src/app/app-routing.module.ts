@@ -12,7 +12,7 @@ import { ItemComponent } from './pages/item/item.component';
 // Define las rutas de tu aplicación
 const routes: Routes = [
   { path: 'inicio', component: PorfolioComponent }, 
-  { path: 'about', component: SobremiComponent}, 
+  { path: 'sobremi', component: SobremiComponent}, 
   { path: 'item', component: ItemComponent}, 
   { path: '**', pathMatch:'full', redirectTo: 'inicio'}, 
 ];
