@@ -15,11 +15,11 @@ Run `ng serve --o` for a dev server. Navigate to `http://localhost:4200/`. The a
 
 ## Code scaffolding
 
-ng g c pages/pages --skip-tests
-
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-ng g c pages/pages --skip-tests
+## Creacion de componentes evitando la generación de archivos de prueba (spec files) junto con el componente.
+
+ng g c pages/pages --skip-tests 
 
 ## Build
 
