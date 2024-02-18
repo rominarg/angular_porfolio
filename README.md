@@ -1,6 +1,6 @@
 # Finalidad del Curso
 
-Estoy desarrollando un curso de Angular donde exploramos una plantilla llamada Aurora. La idea central es aprender a adaptar esta plantilla a Angular. Para lograrlo, estamos descomponiendo la estructura de la plantilla en distintos componentes, como el encabezado (*header*) y el pie de página (*footer*). Además, estamos creando nuevas páginas, como el índice (*index*) y una página "sobre mí", con el propósito de construir un portafolio personalizado.
+Estoy desarrollando un curso de Angular donde exploramos una plantilla llamada Aurora. La idea central es aprender a adaptar esta plantilla a Angular. Para lograrlo, estamos descomponiendo la estructura de la plantilla en distintos componentes, como el encabezado (*header*), body y el pie de página (*footer*). Además, estamos creando nuevas páginas, como el índice (*index*) y una página "sobre mí", con el propósito de construir un portafolio personalizado.
 
 La esencia del curso es comprender la estructura fundamental de Angular para poder aplicar este conocimiento a cualquier código HTML. Así, podemos convertir con facilidad cualquier diseño o plantilla HTML en un proyecto Angular plenamente funcional.
 
@@ -11,11 +11,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `ng serve --o` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
+ng g c pages/pages --skip-tests
+
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+ng g c pages/pages --skip-tests
 
 ## Build
 
