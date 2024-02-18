@@ -2,7 +2,7 @@
 /node_modules
 /dist
 /.angular
-
+.angular/cache/16.2.12/angular-webpack/b960e4249a36382125462f974bd2362468e3661d/
 # Compiled output
 /dist
 /tmp
