@@ -1,3 +1,10 @@
+# Finalidad del Curso
+
+Estoy desarrollando un curso de Angular donde exploramos una plantilla llamada Aurora. La idea central es aprender a adaptar esta plantilla a Angular. Para lograrlo, estamos descomponiendo la estructura de la plantilla en distintos componentes, como el encabezado (*header*) y el pie de página (*footer*). Además, estamos creando nuevas páginas, como el índice (*index*) y una página "sobre mí", con el propósito de construir un portafolio personalizado.
+
+La esencia del curso es comprender la estructura fundamental de Angular para poder aplicar este conocimiento a cualquier código HTML. Así, podemos convertir con facilidad cualquier diseño o plantilla HTML en un proyecto Angular plenamente funcional.
+
+
 # Porfolio
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
